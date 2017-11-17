@@ -1,4 +1,6 @@
 # Optimizing Swift build times
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2FOptimizing-Swift-Build-Times.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2FOptimizing-Swift-Build-Times?ref=badge_shield)
+
 
 Collection of advice on optimizing compile times of Swift projects.
 
@@ -236,3 +238,7 @@ To enable it, go to Workspace or Project Settings from the File menu in Xcode. T
 📖 Sources:
 
 - [Faster Swift Builds with the New Xcode Build System](https://github.com/quellish/XcodeNewBuildSystem)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2FOptimizing-Swift-Build-Times.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2FOptimizing-Swift-Build-Times?ref=badge_large)
